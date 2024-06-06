@@ -2,12 +2,12 @@
 
 It is a react based tool used to visualize graph search algorithms
 
-Algorithms implemented : 
+Algorithms implemented :
 
-1) A * search
-2) Djikstra
-3) Breadth First Search
-4) Depth First Search
+1. A \* search
+2. Djikstra
+3. Breadth First Search
+4. Depth First Search
 
 ## Available Scripts
 
@@ -21,7 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Deployed version of the app is here : https://path-finder-visualize.netlify.app
+Deployed version of the app is here : https://pathfinder-ruddy.vercel.app/
 
-### References : 
+### References :
+
 http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html#S7
